@@ -12,6 +12,9 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiOutlineEnvironment,
+  AiOutlineTool,
+  AiOutlineRocket,
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
@@ -83,6 +86,18 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/Tech"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineRocket
+                  style={{ marginBottom: "2px" }}
+                />{" "}
+                Tecnologías
+              </Nav.Link>
+            </Nav.Item>
             {/* <Nav.Item>
               <Nav.Link
                 as={Link}

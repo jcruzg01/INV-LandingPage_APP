@@ -11,9 +11,9 @@ function MisionCard() {
             El objetivo como integrantes del equipo <span className="purple">Innovatica</span>  es brindar soluciones <span className="purple">innovadoras</span> a cada
             <span className="purple"> problema y necesidad planteados por nuestros clientes.</span>
             <br />
-            Siempre buscando el <span className="purple">compromiso</span> y el <span className="purple">apoyo</span> 
+            Siempre buscando el <span className="purple">compromiso</span> y el <span className="purple">apoyo </span> 
             de cada uno de los miembros del equipo, para que los productos desarrollados por el equipo presenten la mayor 
-            <span className="purple">calidad, seguridad y usabilidad </span> 
+            <span className="purple"> calidad, seguridad y usabilidad </span> 
             que nuestras habilidades nos lo permitan, siempre manteniendo un ambiente
             laboral sano para realizar nuestras tareas con el objetivo antes planteado. <span className="purple"> Todo para que
             nuestros clientes queden a gusto con el trabajo realizado.</span>
